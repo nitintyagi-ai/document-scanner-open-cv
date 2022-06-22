@@ -14,7 +14,7 @@ kiwisolver==1.2.0
 matplotlib==3.2.1
 networkx==2.4
 nltk==3.5
-numpy==1.18.4
+numpy==1.22.0
 opencv-python==4.2.0.34
 parso==0.7.0
 pickleshare==0.7.5
